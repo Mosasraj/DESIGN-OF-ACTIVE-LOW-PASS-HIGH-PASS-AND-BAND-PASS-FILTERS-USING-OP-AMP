@@ -20,8 +20,13 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH.  At fH the gain 
  <img width="602" height="346" alt="image" src="https://github.com/user-attachments/assets/db9d11c7-e823-46f2-bb3e-635a71cbd0b2" />
 
 ## TABULATION: LOW PASS FILTER
+<img width="1436" height="1600" alt="image" src="https://github.com/user-attachments/assets/7e15dd99-0ef3-4dc7-95e0-d8d8b2eeb7da" />
+
                                                                                       		
 ## GRAPH: LOW PASS FILTER
+
+<img width="1501" height="1047" alt="image" src="https://github.com/user-attachments/assets/0f5c5625-7125-41bb-8283-58c83ef9ec7c" />
+
 
 ## HIGH PASS FILTER
 The frequency at which the magnitude of the gain is 0.707 times the maximum value of gain is called low cut off frequency.  Obviously, all frequencies higher than fL are pass band frequencies with the highest frequency determined by the closed –loop band width all of the op-amp.
@@ -35,7 +40,13 @@ HIGH PASS FILTER
 
 ## TABULATION: HIGH PASS FILTER
 
+<img width="1315" height="1600" alt="image" src="https://github.com/user-attachments/assets/75d93c3f-3305-4058-9a22-5ed9e313fe3d" />
+
+
 ## GRAPH: HIGH PASS FILTER
+
+<img width="1478" height="988" alt="image" src="https://github.com/user-attachments/assets/54862c70-a071-433c-8833-d210fdbaa121" />
+
 
 ## DESIGN:LPF & HPF
 Given: fH = 1 KHz = 1/ (2πRC)
@@ -67,7 +78,13 @@ A band pass filter has a pass band between two cutoff frequencies fH and fL such
 
  ## TABULATION: BANDPASS FILTER
 
+ <img width="1593" height="1600" alt="image" src="https://github.com/user-attachments/assets/093cdaf5-b5a8-4656-9baf-85812972190c" />
+
+
 ## GRAPH: BANDPASS FILTER
+
+<img width="1307" height="911" alt="image" src="https://github.com/user-attachments/assets/bba0d996-5fbb-46b8-a0ef-efe87a432211" />
+
                                                                                                   
 ## DESIGN: BAND PASS FILTER
 Design a BPF to pass a band of 400Hz to 2KHz with a pass band gain of 4. 
@@ -101,4 +118,6 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
 6. Calculate passband gain and plot the graph of frequency versus voltage gain & check the graph to get approximately the same characteristic as shown in the model graph.
 
 ## RESULT:
+
+<img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/72834864-5dec-4052-9108-1e071093a516" />
 
